@@ -12,12 +12,37 @@
 - Added Claude Code Extension: Found via Cursor extensions pannel inside primary bar, installed, not authenticated. I couldn't login it due to paid version.
 - Added Codex Extension: Found via Cursor extension pannel, installed, and authenticated.
 - Created a GitHub account: Signed up at github.com with a personal email.
-- Create a GitHub repository: Created and named it "Growth-Marketing-Project". Set up visibilty to public with <README.md> file and watched YouTube tutorial for license selection. Selected MIT (it's best to liencing code, landing pages, skills, etc. Anyone can build their own version on top of it.)
+- Create a GitHub repository: Created and named it "Growth-Marketing-Project". Set up visibilty to public with <README.md> file and watched YouTube tutorial for license selection. Selected MIT (it's best for modification, distribution, and commercial use.)
 - Connected Git to cursor through brower login for better understanding.
 - Installed Git: Download Git (Latest version:2.54.0) for windows from https://git-scm.com/. Watched YouTube tutorial for proper installation of it and use cursor as code editor.
 - Cloned Git repository: Cloned Git Repo into cursor's command pallete inside view option. Used <git clone> in the terminal to pull the repo locally. Watched the same tutorial as Git installion.
 - Configured Git credentials: Set up username and email using <git config --global>.
 - Opened the cloned folder in Cursor.
 - Wrote whole <README.md> File.
-- Committed and pushed it to GitHub: Did it via source control pannel. 
+- Committed and pushed it to GitHub: Did it via source control pannel in Cursor.
 
+## Issues I Ran Into & How I Solved Them
+
+### Issue 1 - Git Not Recognized in Cursor Terminal
+- After connecting Git via broswer to Cursor. I tried to clone the git repo which I cloudn't. I diagnosed the problem and install git scm app, instead of git window app. 
+
+### Issue 2 - Couldn't Clone the Repository
+Problem - I was unsure how to link the GItHub repository to the local cursor folder.
+Solution 
+- I watched the YouTube tutorial for fast and reliable setup.
+- Copied the HTTPS URL from the GitHub repo.
+- Ran <Git Clone (repo URL)>
+
+### Issue 3 -  GitHub Login / Push Authentication Error
+Problem: When pushing to GitHub, got an error about user.name and user.email not being configured.
+Solution: Ran the global user command with my user name and email:
+-  <git config --global user.name "User Name">
+- <git config --global user.email "user_github_email@gmail.com">
+- Then re-attempted repo commit and push via cursor pannel. Logged in to Github through authentication window.
+
+### Issue 4 - Commit Message Editor Error
+Problem: When trying to commit, Cursor opened a COMMIT_EDITMSG file instead of just committing. It was unclear what to do.
+Solution: Watched a YouTube tutorial to commit and push Git repo.
+- Typed the commit message on line 1 of the file <add readme file>
+- Saved with <ctrl+ S>
+- And commit and push repo several times to check proper function and sync.
