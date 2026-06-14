@@ -1,6 +1,6 @@
 ---
 author: Adam Robinson
-linkedin_post_url: linkedin.com/in/retentionadam/
+linkedin_url: linkedin.com/in/retentionadam/
 
 ---
 
