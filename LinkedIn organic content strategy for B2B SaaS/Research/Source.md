@@ -68,3 +68,15 @@ He is relevant to LinkedIn organic content strategy for B2B SaaS because his wor
 **Annotation:** Diandra Escobar is the CEO of Distinctiva, a content growth partner for B2B brands. Distinctiva positions its work around turning expertise into pipeline by running LinkedIn, YouTube, newsletter, and campaign systems for founders and executives. The company site describes Diandra's path from starting with LinkedIn storytelling to building Distinctiva past $1M in revenue, and highlights client outcomes across impressions, follower growth, engagement, and inbound authority.
 
 She is relevant to LinkedIn organic content strategy for B2B SaaS because her work focuses directly on founder-led and executive-led content engines. Distinctiva's services include LinkedIn strategy, ghostwriting, design, video, scheduling, engagement, YouTube growth, newsletters, and launch campaigns, making her a practitioner of multi-channel organic demand creation where LinkedIn is the core trust-building channel.
+
+---
+
+## 6. Anthony Pierri
+**Role:** Co-founder, Fletch PMM  
+**LinkedIn:** [linkedin.com/in/anthonypierri/](https://www.linkedin.com/in/anthonypierri/)  
+**Newsletter:** [Fletch Newsletter](https://www.fletchpmm.com/newsletter)  
+**Website:** [fletchpmm.com](https://www.fletchpmm.com/)
+
+**Annotation:** Anthony Pierri is a B2B SaaS positioning and product marketing strategist and co-founder of Fletch PMM. Fletch is a product marketing consultancy focused on helping B2B software companies clarify their positioning, document it in an internal strategy deck, and communicate it through clearer homepage messaging. The company positions its work around a two-week homepage positioning sprint and states that it has helped 500+ B2B software companies.
+
+He is relevant to LinkedIn organic content strategy for B2B SaaS because his content sits at the intersection of positioning, homepage messaging, founder narrative, and demand creation. His LinkedIn posts often challenge vague marketing claims, overbuilt launches, founder assumptions, and unclear product stories, which are core inputs for stronger organic LinkedIn content that attracts the right B2B buyers.
