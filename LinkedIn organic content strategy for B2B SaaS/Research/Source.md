@@ -43,3 +43,15 @@ He is relevant to LinkedIn organic content strategy for B2B SaaS because his wor
 **Annotation:** Peep Laja is a B2B strategy, positioning, and market research operator who has built three companies: Wynter, CXL, and Speero. Wynter is positioned as an on-demand messaging and market research platform for B2B teams, with use cases including message testing, ICP research, brand tracking, landing page testing, and data-driven thought leadership. Peep's personal site describes his work as focused on B2B strategy, competing, and winning in saturated markets.
 
 He is relevant to LinkedIn organic content strategy for B2B SaaS because his public content connects original research, category strategy, buyer insight, positioning, and contrarian B2B marketing commentary. His LinkedIn posts often use data-backed claims and market observations to create discussion around AI, B2B marketing leadership, differentiation, and message-market fit.
+
+---
+
+## 4. Brendan Hufford
+**Role:** Founder, Growth Sprints (B2B SaaS content consultancy)  
+**LinkedIn:** [linkedin.com/in/brendanhufford/](https://www.linkedin.com/in/brendanhufford/)  
+**Newsletter:** [brendanhufford.com](https://brendanhufford.com/)  
+**Website:** [growthsprints.co](https://growthsprints.co)
+
+**Annotation:** Brendan Hufford is a B2B SaaS content and SEO strategist and the founder of Growth Sprints. Growth Sprints is positioned around helping SaaS companies grow from $10M to $100M ARR through short, focused marketing sprints across AEO, SEO, newsletter, and LinkedIn. His framework separates discoverable revenue-focused content, demand-focused content, relationship content, and authority-building content.
+
+He is relevant to LinkedIn organic content strategy for B2B SaaS because his work connects content marketing to revenue, pipeline, buyer intent, and executive thought leadership. Growth Sprints specifically includes LinkedIn as part of its revenue-focused content system, and Brendan's public posts often analyze B2B software growth, AI-assisted content workflows, customer journey content, and how SaaS teams should create content people actually want to share.
