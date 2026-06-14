@@ -30,3 +30,16 @@ He shares B2B SaaS organic content strategy playbook & profit & lose statements 
 **Annotation:** Devin Reed is a B2B content strategist and founder of The Reeder, a content strategy consultancy for B2B tech companies. His public positioning centers on building durable content systems instead of chasing short-term content tactics. The Reeder site describes his 95-5 Content System as a methodology built at Gong that helped drive growth from $20M to $200M ARR, and his services include B2B content strategy, marketing advising, and an Executive LinkedIn Accelerator.
 
 He is relevant to LinkedIn organic content strategy for B2B SaaS because his work connects content strategy, founder/executive LinkedIn presence, audience growth, category positioning, and pipeline creation. His newsletter teaches practical content and LinkedIn growth methods for marketers, and his LinkedIn posts show how B2B teams can use repeatable templates, stronger company-page strategy, and clearer content operations to create demand.
+
+---
+
+## 3. Peep Laja
+**Role:** CEO, Wynter. 3x founder (Wynter, CXL, Speero)  
+**LinkedIn:** [linkedin.com/in/peeplaja/](https://www.linkedin.com/in/peeplaja/)  
+**Podcast:** [How to Win with Peep Laja](https://open.spotify.com/show/1BF9TvY8OOkIDz6CidFdTe?si=0be949ec0b464d4d)  
+**Newsletter:** Peep Laja newsletter  
+**Website:** [wynter.com](https://wynter.com) and [peeplaja.com](https://peeplaja.com/)
+
+**Annotation:** Peep Laja is a B2B strategy, positioning, and market research operator who has built three companies: Wynter, CXL, and Speero. Wynter is positioned as an on-demand messaging and market research platform for B2B teams, with use cases including message testing, ICP research, brand tracking, landing page testing, and data-driven thought leadership. Peep's personal site describes his work as focused on B2B strategy, competing, and winning in saturated markets.
+
+He is relevant to LinkedIn organic content strategy for B2B SaaS because his public content connects original research, category strategy, buyer insight, positioning, and contrarian B2B marketing commentary. His LinkedIn posts often use data-backed claims and market observations to create discussion around AI, B2B marketing leadership, differentiation, and message-market fit.
