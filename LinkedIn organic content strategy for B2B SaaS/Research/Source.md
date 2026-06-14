@@ -80,3 +80,15 @@ She is relevant to LinkedIn organic content strategy for B2B SaaS because her wo
 **Annotation:** Anthony Pierri is a B2B SaaS positioning and product marketing strategist and co-founder of Fletch PMM. Fletch is a product marketing consultancy focused on helping B2B software companies clarify their positioning, document it in an internal strategy deck, and communicate it through clearer homepage messaging. The company positions its work around a two-week homepage positioning sprint and states that it has helped 500+ B2B software companies.
 
 He is relevant to LinkedIn organic content strategy for B2B SaaS because his content sits at the intersection of positioning, homepage messaging, founder narrative, and demand creation. His LinkedIn posts often challenge vague marketing claims, overbuilt launches, founder assumptions, and unclear product stories, which are core inputs for stronger organic LinkedIn content that attracts the right B2B buyers.
+
+---
+
+## 7. Gal Aga
+**Role:** Co-founder & CEO, Aligned  
+**LinkedIn:** [linkedin.com/in/galaga/](https://www.linkedin.com/in/galaga/)  
+**Podcast:** Guest on GTM Shift and other B2B sales podcasts  
+**Website:** [alignedup.com](https://alignedup.com/)
+
+**Annotation:** Gal Aga is the co-founder and CEO of Aligned, an AI deal workspace and digital sales room platform for B2B sales and customer success teams. Aligned positions itself around helping sellers run deals in one shared buyer workspace, replacing scattered email, file, link, and spreadsheet workflows with a centralized space for content, mutual action plans, stakeholder activity, buyer intent, and AI-guided deal execution. The Aligned website highlights use by sales and CS teams and includes brands such as Salesforce, HubSpot, ServiceNow, Deel, and Similarweb.
+
+He is relevant to LinkedIn organic content strategy for B2B SaaS because his content reflects founder-led selling in a sales-tech category. His LinkedIn posts connect practical sales experience, AI sales tooling, SMB/AE performance, buyer behavior, and deal execution, giving useful source material for how B2B SaaS founders turn operator lessons into LinkedIn-native thought leadership.
