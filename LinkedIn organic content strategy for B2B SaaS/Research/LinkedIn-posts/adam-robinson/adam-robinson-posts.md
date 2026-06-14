@@ -1,7 +1,7 @@
 ---
 
 ## author: Adam Robinson
-linkedin_url: https://www.linkedin.com/in/retentionadam/(https://www.linkedin.com/in/retentionadam/
+linkedin_url: https://www.linkedin.com/in/retentionadam/
 source_type: LinkedIn posts
 
 # Adam Robinson LinkedIn Posts
