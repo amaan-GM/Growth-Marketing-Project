@@ -1,14 +1,14 @@
 ---
 
 ## author: Adam Robinson
-linkedin_url: [https://www.linkedin.com/in/retentionadam/](https://www.linkedin.com/in/retentionadam/)
+linkedin_url: https://www.linkedin.com/in/retentionadam/](https://www.linkedin.com/in/retentionadam/)
 source_type: LinkedIn posts
 
 # Adam Robinson LinkedIn Posts
 
 ## Post 1: 5-step playbook to get to $1m ARR
 
-**Source:** [https://www.linkedin.com/posts/retentionadam_ive-bootstrapped-0-1m-arr-3-times-and-activity-7470149161821052928-omiK/](https://www.linkedin.com/posts/retentionadam_ive-bootstrapped-0-1m-arr-3-times-and-activity-7470149161821052928-omiK/)
+**Source:** https://www.linkedin.com/posts/retentionadam_ive-bootstrapped-0-1m-arr-3-times-and-activity-7470149161821052928-omiK/](https://www.linkedin.com/posts/retentionadam_ive-bootstrapped-0-1m-arr-3-times-and-activity-7470149161821052928-omiK/)
 
 I've bootstrapped $0-1m ARR 3 times, and I'm about to do a 4th time with MoltSets. Here's my 5-step plan for creating a lean, mean, high-velocity growth machine:
 
