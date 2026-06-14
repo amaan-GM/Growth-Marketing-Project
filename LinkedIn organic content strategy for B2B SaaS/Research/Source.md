@@ -11,6 +11,6 @@
 **LinkedIn:** [linkedin.com/in/retentionadam/](https://www.linkedin.com/in/retentionadam/)  
 **YouTube:** [youtube.com/@retentionadam](https://www.youtube.com/@retentionadam)  
 **Newsletter:** RB2B Newsletter (https://newsletter.rb2b.com/)  
-**Website:** [retention.com](https://retention.com) & [rb2b.com] (https://www.rb2b.com/)
+**Website:** [retention.com](https://retention.com) & [rb2b.com](https://www.rb2b.com/)
 
 **Annotation:** Adam bootstrapped Retention.com to $22M ARR with 6 employees ($3.7M/employee), then launched RB2B and hit $1M ARR in 16 weeks, almost entirely through LinkedIn founder-led content. He uses "edutainment" framework (50% teaching + 50% storytelling) and "write to your former self" philosophy. Before Retention.com, he bootstrapped Robly Email Marketing, an Email Marketing and Marketing Automation SaaS to an 8 figure exit as Co-Founder/CEO (source: LinkedIn).
