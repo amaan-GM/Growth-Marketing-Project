@@ -103,3 +103,16 @@ He is relevant to LinkedIn organic content strategy for B2B SaaS because his con
 **Annotation:** Dave Gerhardt is the founder of Exit Five, a B2B marketing newsletter and private community. Exit Five positions itself as a newsletter and community built specifically for B2B marketers, with 40,000+ marketers getting weekly strategy, stories, and commentary across ABM, product marketing, growth marketing, AI in marketing, leadership, demand generation, and brand.
 
 He is relevant to LinkedIn organic content strategy for B2B SaaS because he is one of the best-known B2B marketing operators turned media/community builders. His LinkedIn content frequently turns marketing observations, audience polls, community discussion, brand arguments, and B2B operator lessons into short, opinionated posts that drive conversation among SaaS marketers and founders.
+
+---
+
+## 9. Amanda Natividad
+**Role:** Chief Evangelist, SparkToro. VP of Marketing.  
+**LinkedIn:** [linkedin.com/in/amandanat/](https://www.linkedin.com/in/amandanat/)  
+**YouTube:** [youtube.com/@amandanat_](https://www.youtube.com/@amandanat_)  
+**Newsletter:** [The Menu](https://amandanat.substack.com/)  
+**Website:** [zeroclickmarketing.co](https://zeroclickmarketing.co/) and [amandanat.com](https://amandanat.com/)
+
+**Annotation:** Amanda Natividad is Chief Evangelist at SparkToro and runs Zero Click Marketing, a podcast, consulting practice, and forthcoming book with Rand Fishkin. Her public work centers on building brand trust in a traffic-starved web by creating value directly inside platforms rather than hiding the best ideas behind clicks. Her personal site describes her as a long-time marketer, former tech journalist, and host of the Zero Click Marketing podcast.
+
+She is relevant to LinkedIn organic content strategy for B2B SaaS because her zero-click philosophy maps directly to LinkedIn-native content: give value in the feed, build identity-led discoverability, and compound trust through consistent, opinionated ideas. Her posts and newsletter connect audience research, AI optimization, LinkedIn buyer behavior, creator-led marketing, and B2B brand strategy.
