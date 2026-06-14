@@ -116,3 +116,15 @@ He is relevant to LinkedIn organic content strategy for B2B SaaS because he is o
 **Annotation:** Amanda Natividad is Chief Evangelist at SparkToro and runs Zero Click Marketing, a podcast, consulting practice, and forthcoming book with Rand Fishkin. Her public work centers on building brand trust in a traffic-starved web by creating value directly inside platforms rather than hiding the best ideas behind clicks. Her personal site describes her as a long-time marketer, former tech journalist, and host of the Zero Click Marketing podcast.
 
 She is relevant to LinkedIn organic content strategy for B2B SaaS because her zero-click philosophy maps directly to LinkedIn-native content: give value in the feed, build identity-led discoverability, and compound trust through consistent, opinionated ideas. Her posts and newsletter connect audience research, AI optimization, LinkedIn buyer behavior, creator-led marketing, and B2B brand strategy.
+
+---
+
+## 10. Chris Walker
+**Role:** CEO, Refine Labs. Founder, Encoded.  
+**LinkedIn:** [linkedin.com/in/chriswalker171/](https://www.linkedin.com/in/chriswalker171/)  
+**Podcast:** [Revenue Vitals / Chris Walker podcast](https://open.spotify.com/show/5eEzaXy4hUSqlvzD9ROqrz?si=17c115e83a694654&utm_medium=share&utm_source=linktree&nd=1&dlsi=366830774c2646f3)  
+**Website:** [refinelabs.com](https://refinelabs.com) and [encoded.ai](https://www.encoded.ai/)
+
+**Annotation:** Chris Walker is the CEO of Refine Labs, a B2B demand generation agency for mid-market and enterprise B2B SaaS companies, and the founder of Encoded. Refine Labs positions its work around helping B2B SaaS companies modernize growth strategy, move from outdated lead generation to demand generation, align marketing with buyer behavior, and measure revenue, pipeline quality, sales velocity, and cost efficiency. Its site states that Refine Labs has helped 300+ mid-market and enterprise B2B SaaS companies with $50M+ ARR.
+
+He is relevant to LinkedIn organic content strategy for B2B SaaS because he helped popularize demand creation, dark social, buyer-led growth, and revenue-focused marketing measurement in the B2B SaaS conversation. His LinkedIn content often uses strong point-of-view posts, founder reflections, market commentary, fundraising analysis, and lessons from scaling Refine Labs to create demand and shape category-level thinking.
