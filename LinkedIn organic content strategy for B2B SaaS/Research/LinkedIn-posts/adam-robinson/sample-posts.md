@@ -1,6 +1,6 @@
 ---
-author: Adam Robinson
-linkedin_post_url: [5-step playbook to get to $1m ARR](https://www.linkedin.com/posts/retentionadam_ive-bootstrapped-0-1m-arr-3-times-and-activity-7470149161821052928-omiK/)
+**author:** Adam Robinson
+**linkedin_post_url:** [5-step playbook to get to $1m ARR](https://www.linkedin.com/posts/retentionadam_ive-bootstrapped-0-1m-arr-3-times-and-activity-7470149161821052928-omiK/)
 
 ---
 
