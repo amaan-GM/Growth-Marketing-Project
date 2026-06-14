@@ -37,7 +37,6 @@ He is relevant to LinkedIn organic content strategy for B2B SaaS because his wor
 **Role:** CEO, Wynter. 3x founder (Wynter, CXL, Speero)  
 **LinkedIn:** [linkedin.com/in/peeplaja/](https://www.linkedin.com/in/peeplaja/)  
 **Podcast:** [How to Win with Peep Laja](https://open.spotify.com/show/1BF9TvY8OOkIDz6CidFdTe?si=0be949ec0b464d4d)  
-**Newsletter:** Peep Laja newsletter  
 **Website:** [wynter.com](https://wynter.com) and [peeplaja.com](https://peeplaja.com/)
 
 **Annotation:** Peep Laja is a B2B strategy, positioning, and market research operator who has built three companies: Wynter, CXL, and Speero. Wynter is positioned as an on-demand messaging and market research platform for B2B teams, with use cases including message testing, ICP research, brand tracking, landing page testing, and data-driven thought leadership. Peep's personal site describes his work as focused on B2B strategy, competing, and winning in saturated markets.
@@ -85,8 +84,7 @@ He is relevant to LinkedIn organic content strategy for B2B SaaS because his con
 
 ## 7. Gal Aga
 **Role:** Co-founder & CEO, Aligned  
-**LinkedIn:** [linkedin.com/in/galaga/](https://www.linkedin.com/in/galaga/)  
-**Podcast:** Guest on GTM Shift and other B2B sales podcasts  
+**LinkedIn:** [linkedin.com/in/galaga/](https://www.linkedin.com/in/galaga/)   
 **Website:** [alignedup.com](https://alignedup.com/)
 
 **Annotation:** Gal Aga is the co-founder and CEO of Aligned, an AI deal workspace and digital sales room platform for B2B sales and customer success teams. Aligned positions itself around helping sellers run deals in one shared buyer workspace, replacing scattered email, file, link, and spreadsheet workflows with a centralized space for content, mutual action plans, stakeholder activity, buyer intent, and AI-guided deal execution. The Aligned website highlights use by sales and CS teams and includes brands such as Salesforce, HubSpot, ServiceNow, Deel, and Similarweb.
