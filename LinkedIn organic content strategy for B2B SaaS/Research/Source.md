@@ -90,3 +90,16 @@ He is relevant to LinkedIn organic content strategy for B2B SaaS because his con
 **Annotation:** Gal Aga is the co-founder and CEO of Aligned, an AI deal workspace and digital sales room platform for B2B sales and customer success teams. Aligned positions itself around helping sellers run deals in one shared buyer workspace, replacing scattered email, file, link, and spreadsheet workflows with a centralized space for content, mutual action plans, stakeholder activity, buyer intent, and AI-guided deal execution. The Aligned website highlights use by sales and CS teams and includes brands such as Salesforce, HubSpot, ServiceNow, Deel, and Similarweb.
 
 He is relevant to LinkedIn organic content strategy for B2B SaaS because his content reflects founder-led selling in a sales-tech category. His LinkedIn posts connect practical sales experience, AI sales tooling, SMB/AE performance, buyer behavior, and deal execution, giving useful source material for how B2B SaaS founders turn operator lessons into LinkedIn-native thought leadership.
+
+---
+
+## 8. Dave Gerhardt
+**Role:** Founder, Exit Five  
+**LinkedIn:** [linkedin.com/in/davegerhardt/](https://www.linkedin.com/in/davegerhardt/)  
+**YouTube:** [youtube.com/@heydavegerhardt](https://www.youtube.com/@heydavegerhardt/)  
+**Newsletter:** [Exit Five Newsletter](https://exitfive.com/newsletter/)  
+**Website:** [exitfive.com](https://exitfive.com/)
+
+**Annotation:** Dave Gerhardt is the founder of Exit Five, a B2B marketing newsletter and private community. Exit Five positions itself as a newsletter and community built specifically for B2B marketers, with 40,000+ marketers getting weekly strategy, stories, and commentary across ABM, product marketing, growth marketing, AI in marketing, leadership, demand generation, and brand.
+
+He is relevant to LinkedIn organic content strategy for B2B SaaS because he is one of the best-known B2B marketing operators turned media/community builders. His LinkedIn content frequently turns marketing observations, audience polls, community discussion, brand arguments, and B2B operator lessons into short, opinionated posts that drive conversation among SaaS marketers and founders.
