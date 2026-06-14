@@ -55,3 +55,16 @@ He is relevant to LinkedIn organic content strategy for B2B SaaS because his pub
 **Annotation:** Brendan Hufford is a B2B SaaS content and SEO strategist and the founder of Growth Sprints. Growth Sprints is positioned around helping SaaS companies grow from $10M to $100M ARR through short, focused marketing sprints across AEO, SEO, newsletter, and LinkedIn. His framework separates discoverable revenue-focused content, demand-focused content, relationship content, and authority-building content.
 
 He is relevant to LinkedIn organic content strategy for B2B SaaS because his work connects content marketing to revenue, pipeline, buyer intent, and executive thought leadership. Growth Sprints specifically includes LinkedIn as part of its revenue-focused content system, and Brendan's public posts often analyze B2B software growth, AI-assisted content workflows, customer journey content, and how SaaS teams should create content people actually want to share.
+
+---
+
+## 5. Diandra Escobar
+**Role:** CEO, Distinctiva  
+**LinkedIn:** [linkedin.com/in/diandraescobar/](https://www.linkedin.com/in/diandraescobar/)  
+**YouTube:** [youtube.com/@diandraescobarr](https://www.youtube.com/@diandraescobarr)  
+**Newsletter:** [Distinctiva Blog](https://blog.distinctiva.io/) and [The Workflow](https://www.theworkflow.digital/)  
+**Website:** [distinctiva.io](https://distinctiva.io/)
+
+**Annotation:** Diandra Escobar is the CEO of Distinctiva, a content growth partner for B2B brands. Distinctiva positions its work around turning expertise into pipeline by running LinkedIn, YouTube, newsletter, and campaign systems for founders and executives. The company site describes Diandra's path from starting with LinkedIn storytelling to building Distinctiva past $1M in revenue, and highlights client outcomes across impressions, follower growth, engagement, and inbound authority.
+
+She is relevant to LinkedIn organic content strategy for B2B SaaS because her work focuses directly on founder-led and executive-led content engines. Distinctiva's services include LinkedIn strategy, ghostwriting, design, video, scheduling, engagement, YouTube growth, newsletters, and launch campaigns, making her a practitioner of multi-channel organic demand creation where LinkedIn is the core trust-building channel.
