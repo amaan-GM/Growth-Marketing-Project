@@ -94,7 +94,7 @@ Three strict criteria applied to every expert:
 | 6 | Anthony Pierri | Co-founder, Fletch PMM | Helped 500+ B2B SaaS companies clarify positioning for LinkedIn content |
 | 7 | Gal Aga | CEO, Aligned | 65% of Aligned's leads come directly from LinkedIn organic |
 | 8 | Dave Gerhardt | Founder, Exit Five | Built 40,000+ member B2B marketing community through LinkedIn content |
-| 9 | Amanda Natividad | Chief Evangelist, SparkToro | Pioneered Zero Click Marketing — the dominant B2B LinkedIn strategy |
+| 9 | Amanda Natividad | Chief Evangelist, SparkToro | Pioneered Zero Click Marketing: the dominant B2B LinkedIn strategy |
 | 10 | Chris Walker | CEO, Refine Labs | Grew Refine Labs to serve 300+ B2B SaaS companies via LinkedIn demand creation |
 
 ## Research Workflow
