@@ -1,5 +1,7 @@
 # Growth-Marketing-Project - Portfolio Setup
 
+---
+
 ## Tools I Installed
 
 - **Cursor IDE:** Downloaded from [cursor.com](http://cursor.com)
@@ -20,6 +22,8 @@
 - Opened the cloned folder in Cursor.
 - Wrote whole <README.md> File.
 - Committed and pushed it to GitHub: Did it via the source control panel in Cursor.
+
+---
 
 ## Issues I Ran Into & How I Solved Them
 
@@ -47,3 +51,65 @@ Solution: Watched a YouTube tutorial to commit and push Git repo.
 - Typed the commit message on line 1 of the file <add readme file>.
 - Saved with <ctrl+ S>.
 - And commit and push repo several times to check proper function and sync.
+
+---
+
+## Research Project: LinkedIn Organic Content Strategy for B2B SaaS
+
+### Why I Chose This Topic
+LinkedIn organic content is one of the highest-ROI growth channels for B2B SaaS companies today. Companies like to spend less on organic and it also help build long-term brand authority, generates inbound leads, and compounds over time.
+
+I chose this topic to study what separates practitioners who generate real revenue from LinkedIn versus those who simply collect likes and impressions.
+
+### Selection Criteria
+Three strict criteria applied to every expert:
+- Actively posting on LinkedIn as a primary channel.
+- Specific, documented business outcomes from LinkedIn organic.
+- Focused on B2B SaaS, not general creators or solopreneurs.
+
+## What This Repository Contains
+
+- Expert source list
+- LinkedIn post examples
+- YouTube transcripts
+- Podcast notes
+- Research notes and content pattern analysis
+
+### Repository Structure
+
+- `LinkedIn organic content strategy for B2B SaaS/Research/Source.md`
+- `Research/LinkedIn-posts/`
+- `Research/YouTube-Transcripts/`
+- `Research/Others/`
+
+### The 10 Experts Selected
+
+| # | Expert | Role | Why Selected |
+|---|---|---|---|
+| 1 | Adam Robinson | Founder, Retention.com + RB2B | $1M ARR in 16 weeks via LinkedIn founder content |
+| 2 | Devin Reed | Founder, The Reeder | Built 95-5 Content System at Gong during $20M→$200M ARR growth |
+| 3 | Peep Laja | CEO, Wynter | 80% of Wynter demo requests come directly from LinkedIn |
+| 4 | Brendan Hufford | Founder, Growth Sprints | B2B SaaS content specialist with documented pipeline outcomes |
+| 5 | Diandra Escobar | CEO, Distinctiva | Built Distinctiva past $1M revenue through founder-led LinkedIn content |
+| 6 | Anthony Pierri | Co-founder, Fletch PMM | Helped 500+ B2B SaaS companies clarify positioning for LinkedIn content |
+| 7 | Gal Aga | CEO, Aligned | 65% of Aligned's leads come directly from LinkedIn organic |
+| 8 | Dave Gerhardt | Founder, Exit Five | Built 40,000+ member B2B marketing community through LinkedIn content |
+| 9 | Amanda Natividad | Chief Evangelist, SparkToro | Pioneered Zero Click Marketing — the dominant B2B LinkedIn strategy |
+| 10 | Chris Walker | CEO, Refine Labs | Grew Refine Labs to serve 300+ B2B SaaS companies via LinkedIn demand creation |
+
+## Research Workflow
+
+1. Collect expert sources
+2. Save LinkedIn post links/content
+3. Fetch YouTube transcripts where available
+4. Add podcast/source notes where no transcript exists
+5. Analyze patterns across experts
+
+## Tools Used for Collection
+
+- Cursor
+- GitHub
+- Git
+- Supadata API (to fetch YouTube Transcipts through urls)
+- Manual LinkedIn post collection and annotation
+- Profile and content analysis across LinkedIn, YouTube, and newsletters
